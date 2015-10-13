@@ -4,7 +4,7 @@
  * Fired during plugin activation
  *
  * @link       http://www.kostasni.com/
- * @since      1.0.0
+ * @since      0.1.0
  *
  * @package    Publish_Future_Posts_Now
  * @subpackage Publish_Future_Posts_Now/includes
@@ -15,7 +15,7 @@
  *
  * This class defines all code necessary to run during the plugin's activation.
  *
- * @since      1.0.0
+ * @since      0.1.0
  * @package    Publish_Future_Posts_Now
  * @subpackage Publish_Future_Posts_Now/includes
  * @author     Kostas Nicolacopoulos <kostas@kostasni.com>
@@ -27,7 +27,7 @@ class Publish_Future_Posts_Now_Activator {
 	 *
 	 * Long Description.
 	 *
-	 * @since    1.0.0
+	 * @since    0.1.0
 	 */
 	public static function activate() {
 
